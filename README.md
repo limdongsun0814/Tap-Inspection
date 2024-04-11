@@ -30,7 +30,7 @@
 ### 2. 나사선 판별
  - Hough Circle Transform 알고리즘을 사용하여 나사선 규격을 판별 및 중앙 정렬을 한다.
 <div align="center">
-<img src="https://github.com/limdongsun0814/Tap-Inspection/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%8F%99%EC%9E%91%EC%98%81%EC%83%81.gif" width="30%"/>
+<img src="https://github.com/limdongsun0814/Tap-Inspection/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1-%EC%98%81%EC%83%81.gif" width="30%"/>
 </div></br>
 
 ### 3. 어플리케이션 연동
