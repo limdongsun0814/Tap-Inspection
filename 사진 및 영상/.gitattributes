@@ -1,0 +1,6 @@
+전체[[:space:]]동작[[:space:]]영상.mp4 filter=lfs diff=lfs merge=lfs -text
+동작영상.gif filter=lfs diff=lfs merge=lfs -text
+보정기[[:space:]]모터[[:space:]]동작[[:space:]]영상.mp4 filter=lfs diff=lfs merge=lfs -text
+어플리케이션[[:space:]]화면.jpg filter=lfs diff=lfs merge=lfs -text
+이미지[[:space:]]프로세싱[[:space:]]영상.mp4 filter=lfs diff=lfs merge=lfs -text
+이미지-프로세싱-영상.gif filter=lfs diff=lfs merge=lfs -text
