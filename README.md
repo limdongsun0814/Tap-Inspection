@@ -10,10 +10,10 @@
 </a>
 </div>
 
-## 나사선 검사기
+## 나사산 검사기
 
 ## 목적
-- 나사선의 불량 여부를 자동으로 판별하고 이를 어플리케이션과 연동하는 검사기 개발
+- 나사산의 불량 여부를 자동으로 판별하고 이를 어플리케이션과 연동하는 검사기 개발
 
 ## 담당 
 - 아두이노와 PLC, DC 모터 제어 (SPI, Serial, PWM)
@@ -21,14 +21,14 @@
 
 ## 기능
 
-### 1. 나사선의 불량 여부 판별
- - 모터끝에 나사를 달아 나사선에 삽입/회전시키고 일정량 이상의 역토크가 발생시 에러감지 
+### 1. 나사산의 불량 여부 판별
+ - 모터끝에 나사를 달아 나사산에 삽입/회전시키고 일정량 이상의 역토크가 발생시 에러감지 
 <div align="center">
 <img src="https://github.com/limdongsun0814/Tap-Inspection/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%8F%99%EC%9E%91%EC%98%81%EC%83%81.gif" width="30%"/>
 </div></br>
 
-### 2. 나사선 판별
- - Hough Circle Transform 알고리즘을 사용하여 나사선 규격을 판별 및 중앙 정렬을 한다.
+### 2. 나사산 판별
+ - Hough Circle Transform 알고리즘을 사용하여 나사산 규격을 판별 및 중앙 정렬을 한다.
 <div align="center">
 <img src="https://github.com/limdongsun0814/Tap-Inspection/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1-%EC%98%81%EC%83%81.gif" width="30%"/>
 </div></br>
